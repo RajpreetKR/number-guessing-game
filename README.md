@@ -1,7 +1,7 @@
 # Number Guessing Game
 
 ## Description
-A simple cnumber guessing game
+A simple number guessing game
 
 ## Screenshot
 <img width="550" height="285" alt="image" src="https://github.com/user-attachments/assets/6897ea67-52f6-4d31-b8f5-c67b8c9032d2" />
